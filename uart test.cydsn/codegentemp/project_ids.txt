@@ -1,0 +1,6 @@
+C:\Users\black\OneDrive\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|da6c505a-f7f0-42c7-90de-c99806d2b5d3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|53806fc7-0115-410b-8a36-103e477bc6d5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e937539c-52b7-4ea1-8eb9-5cbf21badab5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|498183fc-bec9-43c0-9302-a857502813f2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|4a512b74-188a-4c54-bf81-f0118dc982ef
+C:\Users\black\OneDrive\Documents\PSoC Creator\BLE_Temperature_Measurement01\uart test.cydsn\uart test.cyprj|071f6798-d49a-4587-9782-e1cbbce638b6
